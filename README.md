@@ -28,7 +28,7 @@ I'm a Computer Graphics Engineer based in Spain 🇪🇦
 <a href="https://www.linkedin.com/in/vldg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:43933891+mvgician@users.noreply.github.com">
+<a href="mailto:vlgre+work@pm.me">
     <img src="https://img.shields.io/badge/EMail-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"/>
 </a>
 
